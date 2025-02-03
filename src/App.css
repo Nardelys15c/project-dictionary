@@ -2,12 +2,22 @@
   margin: 30px 0;
 }
 
+
 .App-logo{
   max-width: 200px;
   display: block;
   margin: 0 auto;
 }
-footer{
+
+.App-footer{
+  color: rgb(20, 21, 21);
   text-align: center;
   margin: 30px 0;
+}
+
+body{
+  background-color: #eee7d9;
+}
+a{
+  color: rgb(110, 112, 113);
 }
